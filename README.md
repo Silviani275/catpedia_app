@@ -5,6 +5,10 @@
 Berikut adalah tangkapan layar dari aplikasi Catpedia:
 
 ![Screenshot Catpedia App](assets/screenshot/screenshot_tampilan.png)
+![Screenshot Catpedia App](assets/screenshot/ras_kucing.png)
+![Screenshot Catpedia App](assets/screenshot/keranjang.png)
+![Screenshot Catpedia App](assets/screenshot/search.png)
+
 
 ***
 
