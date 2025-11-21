@@ -1,4 +1,4 @@
-# Catpedia App - [NAMA MATA KULIAH ANDA]
+# Catpedia App - [MOBILE PROGRAMMING II]
 
 ## Tampilan Aplikasi
 
