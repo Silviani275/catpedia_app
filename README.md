@@ -11,8 +11,7 @@ Berikut adalah tangkapan layar dari aplikasi Catpedia:
 ## Informasi Pengumpulan Ujian
 
 **Judul Aplikasi:** Catpedia App
-**Perwakilan Kelompok:** Silviani275
+**Nama anggota kelompok:** Silviani & Syahra Khairunisa
 **Link Repository GitHub:** https://github.com/Silviani275/catpedia_app
-
 **Link Google Drive (Laporan Proyek/File Pendukung):**
-[Link Google Drive Laporan]
+[Akses Laporan dan File Pendukung di Google Drive](https://drive.google.com/drive/folders/1wyQF0hn3azQeEYQDRIseF7b3Q6YcVDTSx?usp=sharing)
