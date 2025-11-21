@@ -9,5 +9,5 @@
 
 
 ***
-**Link Google Drive (Laporan Proyek/File Pendukung):**
+**Link Google Drive (Laporan Proyect/File Pendukung):**
 [Akses Google Drive](https://drive.google.com/drive/folders/1wyQfOhn3azQeEYQdRHmF7b3Q6YcV0TSx?usp=sharing)
