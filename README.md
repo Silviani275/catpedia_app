@@ -1,16 +1,17 @@
-# catpedia
+# Catpedia App - [MOBILE PROGRAMMING II]
 
-A new Flutter project.
+## Tampilan Aplikasi
 
-## Getting Started
+Berikut adalah tangkapan layar dari aplikasi Catpedia:
 
-This project is a starting point for a Flutter application.
+![Screenshot Catpedia App](assets/screenshot/screenshot_tampilan.png)
 
-A few resources to get you started if this is your first Flutter project:
+***
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Informasi Pengumpulan Ujian
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Judul Aplikasi:** Catpedia App
+**Nama anggota kelompok:** Silviani & Syahra Khairunisa
+**Link Repository GitHub:** https://github.com/Silviani275/catpedia_app
+**Link Google Drive (Laporan Proyek/File Pendukung):**
+[Akses Google Drive](https://drive.google.com/drive/folders/1wyQfOhn3azQeEYQdRHmF7b3Q6YcV0TSx?usp=sharing)
